@@ -1,0 +1,9 @@
+.DS_Store
+**/bin
+**/bin_linux
+**/bin_docker
+**/.cache
+*.pyc
+**/.pem
+**/.idea/
+**/pkg/dep/
